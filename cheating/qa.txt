@@ -1,0 +1,42 @@
+For a connected planner graph, vertices-edges+faces =? #(a) 0; (b) 1; (c) 2; (d) 3
+c
+Which gas is most abundant in Earth's atmosphere? #(a)Oxygen; (b) Carbon Dioxide; (c)Nitrogen; (d)Argon
+c
+Which of the following numbers is prime? # (a) 51; (b) 61;(c) 91;(d) 121
+b
+Which element has the highest melting point? #(a)Iron; (b)Tungsten; (c)Platinum; (d)Titanium
+b
+Which country has the longest total coastline? #(a)Australia; (b)Canada; (c)Russia; (d)United States
+b
+Which of these words is a palindrome? #(a)Mirror; (b)Civic; (c)Racket; (d)Silent
+b
+Which planet has the strongest gravitational pull? #(a)Earth; (b)Jupiter; (c)Saturn; (d)Neptune
+b
+Which is the largest organ in the human body? #(a)Brain; (b)Liver; (c)Skin; (d)Heart
+c
+What is the sum of the interior angles of a hexagon? #(a)540°; (b)720°; (c)900°; (d)1080°
+b
+Which of the following animals is NOT a mammal? #(a)Platypus; (b)Dolphin; (c)Shark; (d)Bat
+c
+Who discovered penicillin? #(a)Louis Pasteur; (b)Alexander Fleming; (c)Marie Curie; (d)Robert Koch
+b
+Which country is NOT part of the G7? #(a)Germany; (b)Italy; (c)China; (d)Canada
+c
+Which of these elements is NOT a metal? #(a)Boron; (b)Sodium; (c)Aluminum; (d)Zinc
+a
+Which is the longest bone in the human body? #(a)Tibia; (b)Femur; (c)Humerus; (d)Radius
+b
+What is the capital of Switzerland? #(a)Zurich; (b)Geneva; (c)Bern; (d)Basel
+c
+Which of these is NOT an official language of the UN? #(a)Arabic; (b)German; (c)Russian; (d)Spanish
+b
+Which gas in light bulbs can prevent the filament burning out? #(a)Helium; (b)Argon; (c)Neon; (d)Hydrogen
+b
+Which is an irrational number?# (a)π; (b)√16; (c)2.5; (d)3/4
+a
+Which of these was written by George Orwell? #(a)Brave New World; (b)Fahrenheit 451; (c)1984; (d)Catch-22
+c
+Which ocean is the deepest? #(a)Atlantic; (b)Indian; (c)Arctic; (d)Pacific
+d
+Which has the most strings? #(a)Violin; (b)Piano; (c)Guitar; (d)Harp
+d
